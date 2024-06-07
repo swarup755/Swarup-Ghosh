@@ -2,6 +2,7 @@ body {
    
     background:rgba(189, 168, 169, 0.59);
     color: black;
+   font-family: 'Trebuchet MS',sans-serif;
     
 }
 a{
@@ -24,6 +25,8 @@ header{
     
 }
 header .logo{
+   width: 40px;
+    height: 32px;
     color: white;
     border: 3px solid rgba(185, 66, 46, 0.94);
     font-size: 25px;
